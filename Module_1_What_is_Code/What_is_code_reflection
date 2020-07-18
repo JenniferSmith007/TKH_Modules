@@ -1,7 +1,4 @@
-Jennifer Smith 
-
-
-In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
+ In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
    
 	When typing a letter on a keyboard, the keyboard will continuously scan waiting for a scancode to be sent. The scancode is a number or set of numbers given to each key on the keyboard, when a key is pressed it sends signals “scancodes” to the computer. From there, the computer receives and processes the scancode data and looks into its memory to gather the output it has remembered on the different scancodes. The screen then works with the computer memory to have pixels make up the output of the scancode. So what ever letter you press down on will show on the screen by being composed of thousands of pixels. Pixels are little dots that have different colors mostly red green and blue. Binary data can also print out a letter, binary data is made of only two numbers 0 and 1 which create a decimal. The decimal value already has an assigned character that will then print out on the screen. 
 

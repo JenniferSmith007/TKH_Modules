@@ -1,0 +1,46 @@
+Jennifer Smith 
+
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
+   
+	When typing a letter on a keyboard, the keyboard will continuously scan waiting for a scancode to be sent. The scancode is a number or set of numbers given to each key on the keyboard, when a key is pressed it sends signals “scancodes” to the computer. From there, the computer receives and processes the scancode data and looks into its memory to gather the output it has remembered on the different scancodes. The screen then works with the computer memory to have pixels make up the output of the scancode. So what ever letter you press down on will show on the screen by being composed of thousands of pixels. Pixels are little dots that have different colors mostly red green and blue. Binary data can also print out a letter, binary data is made of only two numbers 0 and 1 which create a decimal. The decimal value already has an assigned character that will then print out on the screen. 
+
+In your own words, how do computers use input and output to create experiences? (250 words max) 
+	
+	In order to get a full experience from using a computer you need to input information and also have a way for the computer to produce an outcome from the information provided. The computers processor, takes information from the input aspect of the computer, hardware such as keyboards and speakers. The information is processed and has an output creating an experience for a user. An example, input the keyboard to the computer press a character, and the monitor shows you the output of what the computer processed from the keyboard. A computer can also provide the experience of sound and hard copies, input a speaker and the output will be sounds, input a printer give it information and output will be hardcopy of the information given for the printer. Also using computers to go on the internet, produces an input/output experience. Example, using google, a person inputs and question and google outputs an answer to your question, or where to find the answer to your question, creating a knowledgeable experience. 
+	
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max) 
+	
+	“Infinitely reproducible nothings”, there’s no limit to taking an already programmed software, and its data to then reproduce it but now a person can change certain aspects of the program or how the program runs. An example, when a persons phone does update of the software possibly to make it faster or change certain displays. There’s no limit to how many times you can take the phones software and reproduce a new aspect of it such as the phone performing faster. 
+
+Explain in your own words how code becomes software. (150 words max) 
+	 In order to make software you must create code, code is certain repetition of keyboard characters written in lines, the lines then form a language that are specific to a program. The lines can be made up of words and symbols, but must maintain a sequence. The program languages have sets of rules and instructions for the computer to produce different outcomes.  The lines of code, that are written with words and symbols must be exact all the time. With the program language you can turn it into machine language, by having the machine execute the programing language. In order for the machine to read the program language, it must go through software. Software will then break down (compile) the set of instructions written in the programming language, by looking for arguments and functions so the machine can preform the task written in the lines of code. 
+
+Explain “algorithms” in your own words. (150 words max) 
+ 	
+	Algorithms, can be described as a set of rules that create an answer to a problem. The answer created will be the same for whatever the problem may be. An example of a problem that could be solve with an algorithm, when going through a long list of numbers and you need to organize the numbers going highest to lowest. You can write code that could read a list and follow the rules such as the number with higher value will be placed first and with lower value will be placed last.  
+
+Explain the DRY principle. (100 words max) 
+		
+	The DRY principle, is basically saying that a person should write lines of code that can be reused continuously to complete a specific task. An example of following DRY principal, in javascript you can write a function that can find the answer of any number divided or multiplied by another number. Its following the principle of never repeating yourself. You enter the numbers into the function code and the computer reads the function and returns your answer, instead of having to write a line of code that answers for every number multiplied/divided by another number.
+
+In your own words, what is object-oriented programming? (100 words max) 
+	
+	Object-oriented programming, is programming that creates an organized way to to take data and form a class and its objects and use a method that pertains to the class. Example, people have pets the class is pets, the objects are cats and dogs. Cats meow and dogs bark, these are methods something that the objects do. A person can train the dog to bark on command, equaling calling the method on the object so it can preform. Again class is pet, object is dog, barking is method, person calling for the dog to bark is calling for the method to run on the program. Pets, cats, dogs, and barking/meowing are the data given. 
+
+In your own words explain data and how it relates to code. (100 Words max) 
+		
+	Data is information, data can come from users of a website/app, it can be stored in hardware, it can also help with the development of a website. Data that comes from users can be described as when a person fills out a form online, the website then collects the information that was put in to fill out the form, thus making the information data. A person could write lines of code and include data to build a website that can create a better experience for the user, such as when Netflix recommends movies to watch based on data that’s already incorporated. 
+
+
+What is a framework? (150 words max) 
+	 
+	When working with a programing language there can be a lot of repetition and errors, coders should follow the DRY method ( not repeating code). Framework is basically code that has already been tested and built, kind of like a template. When building web pages, apps, etc framework can be used as a foundation, the framework can be used for big task such as default structures for example web pages. If a person wants to have more control they can use a framework that only deals with certain parts of what the person is building. Using framework, helps with it causing less bugs in a persons code, not a lot of time spent to develop a website or app, and also it helps cut out repeated code. 
+
+What is debugging? (150 words max) 
+
+	Debugging, when a person writes a program and is ready to run the program or a software is ready to execute, its important to make sure every line of code is correct. Making sure every line of written code is correct by running test, troubleshooting, and just going over code to make sure everything is correct for example when writing javascript console.log(example) will not print, going back looking over and debugging I can see that “;” was left out. Now when I write console.log(example); it will print example. 	
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max) 
+
+	Opportunity, given a deeper understanding of what code is and how it works, opportunity is the reason for why I want to learn and pursue a career in web development. Coding gives a person the opportunity to create something from nothing, open a text editor and create apps and webpages that can provide help, knowledge or just entertainment for a person to experience. Coding is more than just creating webpages or apps, its a chance to help move the world forward, use code for cars, use code to send people to space, to create better machines to aid in peoples health. The chance to create infinite reproducible nothings, chance to make an already existing program preform better or make it accessible to everyone. Coding, also gives the opportunity to never stop learning, there will always be new frameworks, new languages, new technology problems that need answers and coding solves that. With a knowledge of a programing language, job opportunity will never be scarce, one thing that was predominate in the Bloomberg article is that majority of the languages were created 1970’s-1990’s showing that from that time till now it has progress and will continue to progress to further the use of computers and technology. Coding will give me the opportunity to better my problem solving skills, job opportunities and adding more diversity into the tech field, showing women who are of color that coding and the tech field can be for anyone.  

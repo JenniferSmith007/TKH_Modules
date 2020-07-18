@@ -34,7 +34,7 @@ What is a framework? (150 words max)
 	 
 	When working with a programing language there can be a lot of repetition and errors, coders should follow the DRY method ( not repeating code). Framework is basically code that has already been tested and built, kind of like a template. When building web pages, apps, etc framework can be used as a foundation, the framework can be used for big task such as default structures for example web pages. If a person wants to have more control they can use a framework that only deals with certain parts of what the person is building. Using framework, helps with it causing less bugs in a persons code, not a lot of time spent to develop a website or app, and also it helps cut out repeated code. 
 
-What is debugging? (150 words max) 
+What is debugging? (150 words) 
 
 	Debugging, when a person writes a program and is ready to run the program or a software is ready to execute, its important to make sure every line of code is correct. Making sure every line of written code is correct by running test, troubleshooting, and just going over code to make sure everything is correct for example when writing javascript console.log(example) will not print, going back looking over and debugging I can see that “;” was left out. Now when I write console.log(example); it will print example. 	
 

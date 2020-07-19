@@ -1,6 +1,6 @@
 What is Git and how is it different than Github 
-	
-	Git is a version control system, git helps to organize folders and files that have edited or changed code saved to them. Git also aids in tracking code changes over time, and makes it accessible for more than one person to work a set of code. Git has branches included into the program, the master branch is the branch that will publish finished work on to the internet.
+		
+		Git is a version control system, git helps to organize folders and files that have edited or changed code saved to them. Git also aids in tracking code changes over time, and makes it accessible for more than one person to work a set of code. Git has branches included into the program, the master branch is the branch that will publish finished work on to the internet.
 
 Why use the terminal 
 	

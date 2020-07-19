@@ -6,7 +6,7 @@
 
 - [x] Module 1 [what is code](https://github.com/JenniferSmith007/TKH_Modules/commit/221e81d416b3d0540e3493ed7ccdaf227563c28c).
 
-- [x] Module 2 [bash/git](https://github.com/JenniferSmith007/TKH_Modules/commit/ba478a74b4eb71f6978c8a37b86291a0cc641d6c).
+- [x] Module 2 [bash/git](https://github.com/JenniferSmith007/TKH_Modules/commit/07954d9abcd3f10e436d668467798efad9d00995).
 
 - [ ] Module 3
 

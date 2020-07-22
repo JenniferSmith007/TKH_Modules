@@ -8,7 +8,7 @@
 
 - [x] Module 2 [bash/git](https://github.com/JenniferSmith007/TKH_Modules/commit/07954d9abcd3f10e436d668467798efad9d00995).
 
-- [x] Module 3 [HTML] (file:///Users/jennifersmith/HomeFolder/TKH_Modules/Module_3_HTML/index.html)
+- [x] Module 3 [HTML] (https://github.com/JenniferSmith007/TKH_Modules/commit/138ed0fc5759f66d8d3e8c0ffc890fd812668c1d)
 
 - [ ] Module 4
 

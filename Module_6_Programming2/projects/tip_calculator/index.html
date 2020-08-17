@@ -1,0 +1,60 @@
+<!-- CodePen link https://codepen.io/Jenn007/pen/qBZbZWb -->
+<!-- tip button works on codepen not on live server -->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tip Calculator</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width", initial-scale=1, shrink-to fit="no">
+        <link rel="stylesheet" href="CSS/stylesheet.css">
+        
+    </head>
+        <!-- app = whole container -->
+       <div class="app">
+           <div class="calculator">
+               <header>
+                   <h1>Tip Calculator</h1>
+               </header>
+               <main>
+                <script type="text/javascript" src="JS/script.js"></script>
+                <section class="options">
+                    <div class="input-group">
+                        <div class="pre">$</div>
+                        <!-- how much bill is -->
+                        <input type="number" class="cost" placeholder="Bill Amount?"/>
+                    </div>
+                    <!-- how many people -->
+                    <div class="input-group">
+                        <input type="number" class="people" placeholder="Number of people sharing the bill"/>
+                    </div>
+                    <div class="input-group">
+                        <select class="service" required>
+                            <option disabled selected>Rate Service</option>
+                            <option value="50"> Outstanding</option>
+                            <option value="30"> Great </option>
+                            <option value="20"> Fair</option>
+                            <option value="5">Mediocre</option>
+                            <option value="10"> Terrible</option>
+                        </select>
+                    </div>
+                </section>
+                <!-- start of tip section -->
+                <section class="tip-wrap">
+                    <p>Tip Amount:</p>
+                    <h3 class="tip">$0</h3>
+                 </section>
+               </main>
+               
+               <footer>
+                   <button id="tip-btn">Tip</button>
+               </footer>
+           </div>
+       </div>
+    
+       
+        
+        
+    
+   
+
+</html>

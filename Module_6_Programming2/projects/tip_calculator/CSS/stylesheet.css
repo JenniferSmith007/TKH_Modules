@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff2e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: arial;
+}
+.app {
+   position: relative;
+    width: 100%;
+    max-width: 320px;
+    background:  #ffe6cc;
+    border-top: solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+}
+    /* to give it a box effect */
+    .app::after {
+        content: '';
+        display: block;
+        padding-top: calc(100% / (3/4));
+    }
+.calculator {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    height: 100%;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: column;
+}
+/* start of box */
+header {
+    background-color:  #d9b38c;
+    padding: 15px 20px;
+    box-shadow: opx 3px 12px rgba(0,0,0,0.2);
+   
+}
+
+h1 {
+    color: #800000;
+    text-transform: capitalize;
+    font-size: 24px;
+    text-align: center;
+   
+}
+ /* input groups */
+main {
+    display: 1 1 100%;
+    padding: 20px 15px;
+    
+}
+ 
+.input-group { 
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
+.pre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    color: black;
+    font-size: 17px;
+    border-bottom: 3px solid #331a00;
+    background: #ccccb3;
+    border-radius: 8px 0px 0px;
+}
+input {
+    appearance: none;
+    border: none;
+    outline: none;
+    background:  #f9f2ec;    ;
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border-bottom: 3px solid #734d26;
+    color: #4d0f00;
+    font-size: 14px;
+    
+}
+::placeholder { 
+    color: black;
+    font-size: 14px;
+}
+select {
+    -webkit-appearance: none;
+    appearance: none;
+    border: none;
+    outline: none;
+    background: #f9f2ec;
+    display: block;
+    width: 100%;
+    border-bottom: 3px solid #734d26;
+    border-radius: 0px;
+    color: #801a00;
+    font-size: 17px;
+    padding: 10px 15px;
+
+}
+/* tip starter */
+.tip-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+p {
+    color:#801a00 ;
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+.tip{
+    padding: 15px 25px;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.2);
+    background-color:#d9b38c;
+    color: #801a00;
+    margin-top: 15px;
+}
+footer {
+    box-shadow: 0px -3px 12px rgba(0,0,0,0.2);
+   margin-top: 7px;
+}
+/* tip button*/
+#tip-btn{
+    display: block;
+    width: 100%;
+    padding-bottom: 20px 15px;
+    appearance: none;
+    border-radius: 40px;
+    border: solid;
+    outline: none;
+    background-color:#d9b38c;
+    color: #801a00;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    cursor: pointer;
+}
